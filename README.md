@@ -1,6 +1,6 @@
 ## URL
 
-https://hidden-thicket-12567.herokuapp.com/
+https://kakistagram.herokuapp.com/
 
 ## 機能
 
